@@ -1,5 +1,3 @@
-I have been asked by many about my career transformation journey from Manual Testing to a Test Automation Engineer, hence I thought of creating this repository which has the learning path I followed to become a Test Automation Engineer.
-
 # RoadMaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
